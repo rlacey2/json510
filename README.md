@@ -2,7 +2,7 @@
 #### February 2018  
 
 Cloud demos (if deployed) at:
-1. [Heroku](https://xxxxxxxx.herokuapp.com)  
+1. [Heroku](https://json510.herokuapp.com/#/v1)  
  
 
 A teaching example of modelling data with two different structures and its presentation via nested ng-repeats.
